@@ -89,18 +89,6 @@
 > Replace these with your actual pinned repositories. Each description should focus on architecture decisions and technical depth — not just features.
 
 ```
-▸  [repo-01]  ─────────────────────────────────────────────────
-```
-
-**`project-name-01`** — _Distributed Auth Service_
-
-Stateless JWT-based authentication service built with Spring Security 6 and OAuth2 Resource Server. Implements token rotation strategy, Redis-backed session blacklist, and role-based access control (RBAC) across a multi-tenant microservices mesh. Exposes gRPC endpoints for internal service-to-service auth validation.
-
-`Java` `Spring Boot` `Spring Security` `Redis` `gRPC` `Docker`
-
----
-
-```
 ▸  [ed-learn]  ─────────────────────────────────────────────────
 ```
 
